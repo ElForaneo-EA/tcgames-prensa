@@ -9,7 +9,7 @@ Imágenes oficiales de **TheConnections Games (TCGames)** y de **Primus Mecha Wa
 |---|---|
 | `logos/` | Logo del estudio, horizontal y corto, con fondo transparente (versión clara para fondos oscuros y grafito para fondos claros) |
 | `perfiles/` | Avatar, banners y pósters de presentación |
-| `calendario/` | Imágenes de las publicaciones en redes, por fecha |
+| `calendario/` | Imágenes y vídeos de las publicaciones en redes, por fecha |
 
 **Uso:** puedes usar estas imágenes para hablar del estudio o del juego (artículos, vídeos, directos, reseñas). No las modifiques ni las uses para hacer pasar algo por oficial. © TheConnections Games. Todos los derechos reservados.
 
